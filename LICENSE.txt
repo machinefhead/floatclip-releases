@@ -1,0 +1,16 @@
+FloatClip 1.0.0 — Proprietary Freeware License
+
+Copyright (c) 2026 machinefhead. All rights reserved.
+Support: floatclip.support@proton.me
+
+FloatClip is provided free of charge. You may install and use an authentic, unmodified FloatClip release for personal or business purposes without a license fee.
+
+The application, its source code, branding, documentation and bundled original illustrations are not open-source. Copyright and other intellectual-property rights remain with their respective owners.
+
+You may share the official, unmodified Portable distribution ZIP without charging for the application, provided that the package and this notice remain intact and you do not imply official endorsement. You may not distribute modified FloatClip binaries or repackage or sell FloatClip as your own product without the publisher's permission. Mandatory rights granted by applicable law are unaffected by these terms.
+
+To the extent permitted by applicable law, the software is provided as-is, without warranties. Nothing in this notice limits rights that applicable consumer law does not allow to be excluded.
+
+Microsoft Store downloads may also be subject to Microsoft's standard application license terms or other applicable Store terms.
+
+Publisher contact: floatclip.support@proton.me
