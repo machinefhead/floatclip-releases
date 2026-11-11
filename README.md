@@ -17,9 +17,13 @@ The download includes English/Slovenian usage instructions, changelog, license, 
 
 **Windows 11 x64 only.** ARM64 operation has not been independently validated. Windows 10 is not an officially supported platform. UI text supports 10 localizations, with English as default.
 
-## Store edition
+## Microsoft Store edition
 
-The Microsoft Store version is a separate MSIX edition, published only through the official Store listing after Microsoft certification and the publisher's manual release action. No unsigned Store submission MSIX is provided as a public download here.
+**FloatClip v1.0.0 is now published in Microsoft Store:** [Get FloatClip from Microsoft Store](https://apps.microsoft.com/detail/9NZ0NV55FBM1).
+
+The Store edition is distributed as a separate MSIX package through Microsoft Store, with Store-managed installation and updates. The standalone Portable ZIP on this repository is a different distribution; do not upload or redistribute the unsigned Store submission MSIX. The Store edition intentionally omits the in-app Start with Windows and Restart as administrator options.
+
+The public Store listing, not the source or release metadata repository, is the official installation channel for the Store package.
 
 ## Security, rights and privacy
 
@@ -32,5 +36,7 @@ FloatClip does not require an account and does not contain developer-operated cl
 To je javni repozitorij za **uradne prenose** FloatClipa, ne za izvorno kodo aplikacije. Različico Portable preneseš v razdelku **Releases** kot `FloatClip_v1.0.0_Portable.zip`, jo v celoti razširiš v mapo in zaženeš `FloatClip.exe`.
 
 FloatClip je brezplačna lastniška programska oprema za **Windows 11 x64**. Preveri kontrolno vsoto SHA256 in ne izklapljaj varnostnih zaščit Windows. Navodila v slovenščini so priložena v ZIP-u (`README_SL.md`).
+
+Microsoft Store (uradna namestitev): https://apps.microsoft.com/detail/9NZ0NV55FBM1
 
 Spletna stran: https://machinefhead.github.io/floatclip-site/ · Podpora: floatclip.support@proton.me
